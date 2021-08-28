@@ -13,6 +13,6 @@ compares K-means with spectral and hierarchical clustering models.
 
 File: <code>LR_and_GD.ipynb</code> - a notebook that implments a Logistic Regression (LR) model and illustrates how to solve LR via Gradient Descent (GD).
 
-**3. ** Dimensionality Reduction: PCA vs t-SNE 
+**3.**  Dimensionality Reduction: PCA vs t-SNE 
 
 File: <code>HW3(Q1)-PCA-TSNE-1.ipynb</code> - a notebook that compares t-SNE with PCA and explains why t-SNE could lead to a better visualization than PCA
