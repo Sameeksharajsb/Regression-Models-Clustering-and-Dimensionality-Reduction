@@ -1,4 +1,4 @@
-# Regression Models Clustering and Dimensionality Reduction
+# Regression Models, Clustering and Dimensionality Reduction
 
 This repository is a hub to store my notes and assignments on the basics of machine learning concepts and modeling from a Machine Learning course 
 I took in my MS-CS program at Santa Clara University 
